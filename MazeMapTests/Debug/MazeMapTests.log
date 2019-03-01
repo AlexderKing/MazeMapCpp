@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  GeneralTests.cpp
+  MapTests.cpp
+  SimulationArena.cpp
+  TestArenaTile.cpp
+  unittest1.cpp
+  Code wird generiert...
+  LINK : C:\Users\Alex\source\repos\MazeMapVS17\Debug\MazeMapTests.dll wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+     Bibliothek "C:\Users\Alex\source\repos\MazeMapVS17\Debug\MazeMapTests.lib" und Objekt "C:\Users\Alex\source\repos\MazeMapVS17\Debug\MazeMapTests.exp" werden erstellt.
+  MazeMapTests.vcxproj -> C:\Users\Alex\source\repos\MazeMapVS17\Debug\MazeMapTests.dll

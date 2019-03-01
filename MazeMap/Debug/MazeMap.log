@@ -1,0 +1,15 @@
+﻿  code.c
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt.h(212): warning C4668: "__cplusplus" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  map.c
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt.h(212): warning C4668: "__cplusplus" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  node.c
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt.h(212): warning C4668: "__cplusplus" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  node_list.c
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt.h(212): warning C4668: "__cplusplus" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  Code wird generiert...
+c:\users\alex\source\repos\mazemapvs17\mazemap\map.c(99): warning C5045: Der Compiler fügt die Spectre-Entschärfung für die Arbeitsspeicherauslastung ein, wenn die Option /Qspectre angegeben wird.
+  c:\users\alex\source\repos\mazemapvs17\mazemap\map.c(98) : Hinweis: Der Bereich des Index "dir" wird durch Vergleich in dieser Zeile geprüft.
+  c:\users\alex\source\repos\mazemapvs17\mazemap\map.c(106) : Hinweis: Fügt Arbeitsspeicherauslastung in dieser Zeile hinzu.
+  LINK : C:\Users\Alex\source\repos\MazeMapVS17\Debug\MazeMap.dll wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+     Bibliothek "C:\Users\Alex\source\repos\MazeMapVS17\Debug\MazeMap.lib" und Objekt "C:\Users\Alex\source\repos\MazeMapVS17\Debug\MazeMap.exp" werden erstellt.
+  MazeMap.vcxproj -> C:\Users\Alex\source\repos\MazeMapVS17\Debug\MazeMap.dll

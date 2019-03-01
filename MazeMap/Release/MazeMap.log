@@ -1,0 +1,29 @@
+﻿  node.c
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\corecrt.h(212): warning C4668: "__cplusplus" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+     Bibliothek "C:\Users\Alex\source\repos\MazeMapVS17\Release\MazeMap.lib" und Objekt "C:\Users\Alex\source\repos\MazeMapVS17\Release\MazeMap.exp" werden erstellt.
+  Code wird generiert.
+c:\users\alex\source\repos\mazemapvs17\mazemap\node.c(16): warning C4711: Funktion "CreateNode" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\node.c(24): warning C4711: Funktion "CreateNode" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\node.c(20): warning C4711: Funktion "CreateNode" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\map.c(32): warning C4711: Funktion "CreateMapTile" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\map.c(38): warning C4711: Funktion "CreateNode" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\code.c(7): warning C4711: Funktion "CreateMapTile" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\code.c(11): warning C4711: Funktion "CreateNode" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\code.c(15): warning C4711: Funktion "DestroyNode" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\code.c(16): warning C4711: Funktion "DestroyTile" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\node.c(20): warning C4711: Funktion "CreateNode" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\node.c(41): warning C4711: Funktion "CreateWall" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\map.c(32): warning C4711: Funktion "CreateMapTile" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\map.c(38): warning C4711: Funktion "CreateNode" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\map.c(15): warning C4711: Funktion "CreateMapNodeOnPosition" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\code.c(7): warning C4711: Funktion "CreateMapTile" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\code.c(11): warning C4711: Funktion "CreateNode" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\code.c(15): warning C4711: Funktion "DestroyNode" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\code.c(16): warning C4711: Funktion "DestroyTile" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\code.c(38): warning C4711: Funktion "CreateNewTileUnderRobot" ausgewählt für automatische Inlineerweiterung
+c:\users\alex\source\repos\mazemapvs17\mazemap\code.c(40): warning C4711: Funktion "MoveRobotIntoNewPosition" ausgewählt für automatische Inlineerweiterung
+  10 of 25 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  MazeMap.vcxproj -> C:\Users\Alex\source\repos\MazeMapVS17\Release\MazeMap.dll

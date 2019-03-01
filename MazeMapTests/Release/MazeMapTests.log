@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  GeneralTests.cpp
+  MapTests.cpp
+  SimulationArena.cpp
+  TestArenaTile.cpp
+  unittest1.cpp
+LINK : warning LNK4075: /INCREMENTAL wird aufgrund der Angabe von /LTCG ignoriert.
+     Bibliothek "C:\Users\Alex\source\repos\MazeMapVS17\Release\MazeMapTests.lib" und Objekt "C:\Users\Alex\source\repos\MazeMapVS17\Release\MazeMapTests.exp" werden erstellt.
+  Code wird generiert.
+  All 315 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  MazeMapTests.vcxproj -> C:\Users\Alex\source\repos\MazeMapVS17\Release\MazeMapTests.dll
